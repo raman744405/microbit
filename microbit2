@@ -1,0 +1,7 @@
+input.onButtonPressed(Button.A, function () {
+    basic.showNumber(8)
+})
+
+input.onPinPressed(TouchPin.P0, function () {
+    basic.showNumber(55)
+})
